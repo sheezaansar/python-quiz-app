@@ -1,0 +1,19 @@
+[
+  {
+    "type": "mcq",
+    "text": "What does OOP stand for?",
+    "options": ["Object Oriented Programming", "Open Operations Protocol", "Only One Path"],
+    "correct_answer": "Object Oriented Programming"
+  },
+  {
+    "type": "true_false",
+    "text": "Python is statically typed.",
+    "correct_answer": "False"
+  },
+  {
+    "type": "mcq",
+    "text": "Which keyword defines a class in Python?",
+    "options": ["class", "def", "struct"],
+    "correct_answer": "class"
+  }
+]
